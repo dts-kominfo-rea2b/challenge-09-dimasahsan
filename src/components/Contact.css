@@ -1,0 +1,39 @@
+.contact {
+  display: flex;
+  border-radius: 15px;
+  background-color: #f39a35;
+  padding: 10px;
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.contact-info {
+  margin-left: 15px;
+  width: 100%;
+}
+
+.contact-photo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 15px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.contact-name {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.contact-phone {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.contact-email {
+  font-size: 16px;
+  font-weight: 500;
+}
